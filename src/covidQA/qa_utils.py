@@ -30,13 +30,14 @@ class QaModule():
         synthetic = []
 
         idx = 0
+
         for data_item in data:
             question = data_item["question"]
             answer = data_item["data"]["answer"]
             contexts = data_item["data"]["context"]
             dois = data_item["data"]["doi"]
             titles = data_item["data"]["titles"]
-            
+
             for (context, doi, title) in zip(contexts, dois, titles):
                 data_sample = {
                     "context": context,

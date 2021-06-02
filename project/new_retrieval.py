@@ -15,8 +15,10 @@ def get_embedding_func ():
     return embed
 
 # Connection settings
-host = "186.29.148.129"
-port = 9400
+#host = "186.29.148.129"
+#port = 9400
+host = "localhost"
+port = 9200
 es_connection = es.Elasticsearch([{
     "host": host,
     "port": port
