@@ -221,7 +221,7 @@ class QaModule():
                     # if raw not in answer_sent_bio:
                     #     print("RAW", raw)
                     #     print("BIO", answer_sent_bio)
-                    assert raw_answer_bio in answer_sent_bio
+                    # assert raw_answer_bio in answer_sent_bio
             else:
                 answer_sent_bio = ""
 
