@@ -1,0 +1,27 @@
+What is the incubation period of the virus?
+What is the length of viral shedding after illness onset?
+What is the incubation period across different age groups?
+What is the proportion of patients who were asymptomatic?
+What is the proportion of pediatric patients who were asymptomatic?
+What is the asymptomatic transmission during incubation?
+What is the length of viral shedding in stool?
+What is the length of viral shedding from the nasopharynx?
+What is the length of viral shedding in urine?
+What is the length of viral shedding in blood?
+What is the prevalence of viral shedding in blood?
+What is the sensitivity and specificity of COVID-19 tests?
+How does temperature affect the transmission of COVID-19?
+How does humidity affect the transmission of COVID-19?
+How does seasonality affect the transmission of COVID-19?
+What purity of ethanol inactivates COVID-19?
+What is the temperature used for inactivating COVID-19?
+What is the UVGI intensity used for inactivating COVID-19?
+How large is the sample size used in COVID-19 studies?
+What is the RR for severe infection in COVID-19 patients with hypertension?
+What is the HR for severe infection in COVID-19 patients with hypertension?
+What is the OR for severe infection in COVID-19 patients with hypertension?
+What is the mortality rate for COVID-19 patients with hypertension?
+What is the OR for severe infection in COVID-19 patients with diabetes?
+What is the RR for severe infection in COVID-19 patients with diabetes?
+What is the HR for death in COVID-19 patients with diabetes?
+What is the AHR for death in COVID-19 patients with diabetes?
